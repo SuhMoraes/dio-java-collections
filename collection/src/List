@@ -1,0 +1,7 @@
+--- LIST ---
+
+-- Métodos List
+
+add() => Adiciona o elemento a lista
+toString() => Imprime elementos dentro do ArrayList
+indexOf() => Exibe a posição dentro da lista
